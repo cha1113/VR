@@ -338,7 +338,7 @@ var APP_DATA = {
     },
     {
       "id": "8--2",
-      "name": "凌霄寶殿-2",
+      "name": "凌霄寶殿",
       "levels": [
         {
           "tileSize": 256,
